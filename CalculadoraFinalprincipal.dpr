@@ -2,7 +2,7 @@ program CalculadoraFinalprincipal;
 
 uses
   Vcl.Forms,
-  Unit1 in 'Unit1.pas' {Calculadora},
+  uCalculadora in 'uCalculadora.pas' {Calculadora},
   Vcl.Themes,
   Vcl.Styles;
 

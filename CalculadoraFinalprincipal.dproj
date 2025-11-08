@@ -126,7 +126,7 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="Unit1.pas">
+        <DCCReference Include="uCalculadora.pas">
             <Form>Calculadora</Form>
             <FormType>dfm</FormType>
         </DCCReference>
