@@ -1,0 +1,31 @@
+[10/11/2025 17:45:01] - Subtração, num1= 55, num2= 5, Resultado= 50
+[10/11/2025 17:45:02] - Multiplicação, num1= 55, num2= 5, Resultado= 275
+[10/11/2025 17:45:02] - Divisão, num1= 55, num2= 5, Resultado= 11
+[10/11/2025 17:45:03] - Somar, num1= 55, num2= 5, Resultado= 60
+[10/11/2025 17:45:05] - Aplicação Encerrada
+[10/11/2025 17:45:05] - --------------------------
+[10/11/2025 17:54:59] - --------------------------
+[10/11/2025 17:54:59] - Aplicação Iniciada
+[10/11/2025 17:55:08] - Multiplicação, num1= 5, num2= 0, Resultado= 0
+[10/11/2025 17:55:08] - Multiplicação, num1= 5, num2= 0, Resultado= 0
+[10/11/2025 17:55:09] - Subtração, num1= 5, num2= 0, Resultado= 5
+[10/11/2025 17:55:09] - Somar, num1= 5, num2= 0, Resultado= 5
+[10/11/2025 17:55:14] - Somar, num1= 5, num2= 0, Resultado= 5
+[10/11/2025 17:55:15] - Aplicação Encerrada
+[10/11/2025 17:55:15] - --------------------------
+[10/11/2025 17:58:24] - --------------------------
+[10/11/2025 17:58:24] - Aplicação Iniciada
+[10/11/2025 17:58:33] - Erro ao dividir por zero.
+[10/11/2025 17:58:36] - Multiplicação, num1= 5, num2= 1, Resultado= 5
+[10/11/2025 17:58:37] - Subtração, num1= 5, num2= 1, Resultado= 4
+[10/11/2025 17:58:37] - Divisão, num1= 5, num2= 1, Resultado= 5
+[10/11/2025 17:58:38] - Somar, num1= 5, num2= 1, Resultado= 6
+[10/11/2025 17:58:39] - Aplicação Encerrada
+[10/11/2025 17:58:39] - --------------------------
+[10/11/2025 18:38:13] - --------------------------
+[10/11/2025 18:38:13] - Aplicação Iniciada
+[10/11/2025 18:38:15] - Selecionado Style Sky
+[10/11/2025 18:38:16] - Selecionado Style Glow
+[10/11/2025 18:38:17] - Selecionado Style Windows
+[10/11/2025 18:38:21] - Aplicação Encerrada
+[10/11/2025 18:38:21] - --------------------------

@@ -11,6 +11,8 @@ object Calculadora: TCalculadora
   Font.Height = -12
   Font.Name = 'Segoe UI'
   Font.Style = []
+  OnClose = FormClose
+  OnCreate = FormCreate
   TextHeight = 15
   object Priemeirovalor: TLabel
     Left = 26
@@ -62,6 +64,7 @@ object Calculadora: TCalculadora
     Font.Name = 'Segoe UI'
     Font.Style = []
     ParentFont = False
+    ReadOnly = True
     TabOrder = 0
   end
   object btSubtrair: TButton
@@ -70,6 +73,7 @@ object Calculadora: TCalculadora
     Width = 50
     Height = 50
     Caption = '-'
+    Enabled = False
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = 40
@@ -85,6 +89,7 @@ object Calculadora: TCalculadora
     Width = 50
     Height = 50
     Caption = '/'
+    Enabled = False
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = 40
@@ -100,6 +105,7 @@ object Calculadora: TCalculadora
     Width = 50
     Height = 50
     Caption = '+'
+    Enabled = False
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = 40
@@ -115,6 +121,7 @@ object Calculadora: TCalculadora
     Width = 50
     Height = 50
     Caption = '*'
+    Enabled = False
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = 40
@@ -156,6 +163,7 @@ object Calculadora: TCalculadora
     Font.Style = []
     ParentFont = False
     TabOrder = 6
+    OnChange = txtNum1Change
   end
   object txtNum1: TEdit
     Left = 26
@@ -169,5 +177,6 @@ object Calculadora: TCalculadora
     Font.Style = []
     ParentFont = False
     TabOrder = 7
+    OnChange = txtNum1Change
   end
 end
